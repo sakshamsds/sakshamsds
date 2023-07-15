@@ -1,10 +1,9 @@
 
-<h4 align="center">Hello👋🏽, I'm Sakshamdeep Singh</h4>
-<h5 align="center">Looking for full-time Machine Learning/Software Engineer roles starting from Jan 2024.</h5>
+<h1 align="center">Hello👋🏽, I'm Sakshamdeep Singh</h1>
 
 - 🔭 I’m currently pursuing MS in Artificial Intelligence at Unviversity at Buffalo, SUNY.
 
-- 💞️ I’m looking to collaborate on AI related projects.
+- 💞️ I’m looking for full-time Machine Learning/Software Engineer roles starting from Jan 2024.
 
 - 👨‍💻 All of my projects are available at in my github <!-- add portfolio link later -->
 
