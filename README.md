@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello👋🏽, I'm Sakshamdeep Singh</h1>
-<h3 align="center">Looking for full-time Machine Learning/Software Engineer roles starting from Jan 2024.</h3>
+<h4 align="center">Hello👋🏽, I'm Sakshamdeep Singh</h4>
+<h5 align="center">Looking for full-time Machine Learning/Software Engineer roles starting from Jan 2024.</h5>
 
 - 🔭 I’m currently pursuing MS in Artificial Intelligence at Unviversity at Buffalo, SUNY.
 
@@ -10,7 +10,7 @@
 
 - 📫 Reach me @ **ssingh86@buffalo.edu**
 
-<h3 align="left">Professional Profiles:</h3>
+<h6 align="left">Professional Profiles:</h6>
 <p align="left">
 <a href="https://www.linkedin.com/in/sakshamdeep-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rameshpav1321" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saksham_sds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_rameshpav1321" height="30" width="40" /></a>
@@ -44,7 +44,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"   width="50" height="50"/> </a>
 --->
 
-<h3 align="left">Languages and Tools:</h3>
+<h6 align="left">Languages and Tools:</h6>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> </a>
