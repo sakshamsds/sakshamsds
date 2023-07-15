@@ -20,12 +20,16 @@
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="50" height="50"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  width="50" height="50"/> </a>
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="50" height="50"/> </a>
     <a href="https://www.anaconda.com/download" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg"  width="50" height="50"/> </a>
+    <a href="https://docs.opencv.org/4.x/index.html" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"   width="50" height="50"/> </a>
     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="50" height="50"/> </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
