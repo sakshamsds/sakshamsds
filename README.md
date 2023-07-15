@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at in my github <!-- add portfolio link later -->
 
-- 📫 How to reach me **ssingh86@buffalo.edu**
+- 📫 Reach me @ **ssingh86@buffalo.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
