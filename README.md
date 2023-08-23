@@ -1,11 +1,11 @@
 
 <h1 align="center">Hello👋🏽, I'm Sakshamdeep Singh</h1>
 
-- 🔭 I’m currently pursuing MS in Artificial Intelligence at Unviversity at Buffalo, SUNY.
+- 🔭 Currently pursuing MS in Artificial Intelligence at Unviversity at Buffalo, SUNY.
 
-- 💞️ I’m looking for full-time Machine Learning/Software Engineer roles starting from Jan 2024.
+- 💞️ Looking for full-time Machine Learning/Software Engineer roles starting from Jan 2024.
 
-- 👨‍💻 All of my projects are available at in my github <!-- add portfolio link later -->
+- 👨‍💻 All projects are available at in my github <!-- add portfolio link later -->
 
 - 📫 Reach me @ **ssingh86@buffalo.edu**
 
