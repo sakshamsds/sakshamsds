@@ -5,7 +5,7 @@
 
 - 💞️ Looking for full-time Machine Learning/Software Engineer roles starting from Jan 2024.
 
-- 👨‍💻 All projects are available at in my github <!-- add portfolio link later -->
+- 👨‍💻 All projects are available at my github <!-- add portfolio link later -->
 
 - 📫 Reach me @ **ssingh86@buffalo.edu**
 
