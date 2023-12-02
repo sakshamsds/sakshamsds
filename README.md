@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello👋🏽, I'm Sakshamdeep Singh</h1>
+<h1 align="center">Hello👋🏽, I'm Sakshamdeep Singh (Saksham)</h1>
 
 - 🔭 Currently pursuing MS in Artificial Intelligence at Unviversity at Buffalo, SUNY
 
