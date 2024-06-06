@@ -1,15 +1,15 @@
 
 <h1 align="center">Hello👋🏽, I'm Sakshamdeep Singh (Saksham)</h1>
 
-- 🔭 Currently working as a ML Associate at PwC
+🔭 Currently working as an ML Associate at PwC
 
-- ✨ Graduated with a MS in Artificial Intelligence from the Unviversity at Buffalo, SUNY
+✨ Graduated with a MS in Artificial Intelligence from the Unviversity at Buffalo, SUNY
 
-- 💞️ Looking for full-time Machine Learning/Software Engineer roles
+💞️ Looking for full-time Machine Learning/Software Engineer roles
 
-- 👨‍💻 All projects are available at my github <!-- add portfolio link later -->
+👨‍💻 All projects are available at my github <!-- add portfolio link later -->
 
-- 📫 Reach me @ **ssingh86@buffalo.edu**
+📫 Reach me @ **ssingh86@buffalo.edu**
 
 <h6 align="left">Professional Profiles:</h6>
 <p align="left">
