@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello👋🏽, I'm Sakshamdeep Singh (Saksham)</h1>
 
-🔭 Currently working as an ML Associate at PwC
+🔭 Currently working as a ML Associate at PwC
 
 ✨ Graduated with a MS in Artificial Intelligence from the Unviversity at Buffalo, SUNY
 
