@@ -9,7 +9,7 @@
 
 👨‍💻 All projects are available at my github <!-- add portfolio link later -->
 
-📫 Reach me @ **ssingh86@buffalo.edu**
+📫 Reach me @ **saksham.sds@gmail.com**
 
 <h6 align="left">Professional Profiles:</h6>
 <p align="left">
